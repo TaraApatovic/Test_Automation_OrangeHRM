@@ -1,0 +1,1316 @@
+2025-02-25 13:17:38,515 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:17:39,345 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:17:39,393 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:17:39,459 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:17:40,723 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:17:43,555 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:17:45,887 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:17:46,804 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:17:46,851 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:17:46,897 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:17:48,080 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:17:50,709 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:17:53,016 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:17:53,974 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:17:54,019 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:17:54,064 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:17:55,235 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:17:58,209 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:18:00,535 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:18:01,385 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:01,433 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:01,478 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:18:03,616 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:18:07,375 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:18:07,452 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:18:07,501 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:18:07,563 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:18:10,051 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:18:10,919 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:10,970 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:11,026 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:18:12,114 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:18:15,487 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:18:15,577 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:18:15,628 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:18:16,249 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:18:18,649 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:18:19,592 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:19,638 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:19,686 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:18:20,818 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:18:24,457 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:18:24,543 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:18:24,600 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:18:24,681 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:18:26,986 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:18:27,976 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:28,031 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:28,076 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:18:29,240 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:18:32,489 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:18:32,562 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:18:32,608 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:18:32,674 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:18:51,104 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:18:51,945 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:51,996 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:18:52,053 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:18:53,470 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:19:00,082 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:19:02,643 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:19:03,537 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:03,587 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:03,639 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:19:04,825 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:19:07,778 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:19:10,128 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:19:11,023 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:11,069 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:11,118 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:19:12,353 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:19:15,437 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:19:17,755 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:19:18,682 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:18,731 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:18,783 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:19:19,937 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:19:23,237 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:19:23,321 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:19:23,375 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:19:24,315 - root - INFO - --------------- Login was successful ---------------
+2025-02-25 13:19:24,659 - root - INFO - --------------- Logging out ---------------
+2025-02-25 13:19:28,158 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:19:29,070 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:29,117 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:29,166 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:19:30,276 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:19:33,762 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:19:33,855 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:19:33,904 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:19:33,976 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:19:36,275 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:19:37,228 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:37,273 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:37,322 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:19:38,468 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:19:41,462 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:19:41,548 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:19:41,608 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:19:41,679 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:19:44,024 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:19:44,900 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:44,946 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:19:44,996 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:19:46,208 - root - INFO - --------------- Testing login ---------------
+2025-02-25 13:19:49,855 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:19:49,925 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:19:49,973 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:19:50,037 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:20:56,201 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:20:57,029 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:20:57,079 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:20:57,133 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:20:58,405 - root - INFO - --------------- Testing login ddt excel ---------------
+2025-02-25 13:21:01,709 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:21:01,791 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:21:01,840 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:21:01,907 - root - INFO - Username: Admin
+2025-02-25 13:21:01,907 - root - INFO - Password: admin123
+2025-02-25 13:21:01,907 - root - INFO - Expected results: True
+2025-02-25 13:21:02,756 - root - INFO - --------------- Login was successful ---------------
+2025-02-25 13:21:03,196 - root - INFO - --------------- Logging out ---------------
+2025-02-25 13:21:05,392 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:21:05,453 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:21:05,499 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:21:05,548 - root - INFO - Username: Tara
+2025-02-25 13:21:05,549 - root - INFO - Password: tara123
+2025-02-25 13:21:05,549 - root - INFO - Expected results: False
+2025-02-25 13:21:05,551 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:21:06,339 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:21:06,404 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:21:06,442 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:21:06,481 - root - INFO - Username: exsample_user
+2025-02-25 13:21:06,481 - root - INFO - Password: exsample_user123
+2025-02-25 13:21:06,481 - root - INFO - Expected results: False
+2025-02-25 13:21:06,484 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:21:07,066 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:21:07,119 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:21:07,158 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:21:07,206 - root - INFO - Username: user1
+2025-02-25 13:21:07,206 - root - INFO - Password: user1123
+2025-02-25 13:21:07,206 - root - INFO - Expected results: False
+2025-02-25 13:21:07,209 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:21:07,742 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:21:07,795 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:21:07,836 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:21:07,881 - root - INFO - Username: Admin
+2025-02-25 13:21:07,881 - root - INFO - Password: fake_password
+2025-02-25 13:21:07,881 - root - INFO - Expected results: False
+2025-02-25 13:21:07,884 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:21:08,524 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:21:08,578 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:21:08,622 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:21:08,665 - root - INFO - Username: Fake_user
+2025-02-25 13:21:08,665 - root - INFO - Password: admin123
+2025-02-25 13:21:08,665 - root - INFO - Expected results: False
+2025-02-25 13:21:08,668 - root - INFO - --------------- Login was not successful ---------------
+2025-02-25 13:22:20,172 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:22:21,146 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:21,198 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:21,247 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:22:23,512 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:22:27,141 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:22:27,223 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:22:27,279 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:22:28,932 - root - INFO - Element: Time at Work
+2025-02-25 13:22:28,943 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:22:31,305 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:22:32,236 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:32,282 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:32,327 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:22:33,395 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:22:36,653 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:22:36,735 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:22:36,792 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:22:38,104 - root - INFO - Element: My Actions
+No Pending Actions to Perform
+2025-02-25 13:22:38,116 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:22:40,454 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:22:41,314 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:41,361 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:41,418 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:22:42,502 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:22:45,765 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:22:45,855 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:22:45,903 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:22:47,624 - root - INFO - Element: Quick Launch
+2025-02-25 13:22:47,635 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:22:49,961 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:22:50,944 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:50,990 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:22:51,035 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:22:52,186 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:22:56,558 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:22:56,684 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:22:56,777 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:22:58,674 - root - INFO - Element: Buzz Latest Posts
+2025-02-25 13:22:58,686 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:23:01,509 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:03,028 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:03,080 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:03,129 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:23:06,241 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:23:09,396 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:23:09,479 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:23:09,529 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:23:10,803 - root - INFO - Element: Employees on Leave Today
+2025-02-25 13:23:10,814 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:23:13,260 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:14,115 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:14,162 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:14,211 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:23:15,373 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:23:18,171 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:23:18,254 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:23:18,303 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:23:19,580 - root - INFO - Element: Employee Distribution by Sub Unit
+2025-02-25 13:23:19,590 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:23:21,903 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:22,763 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:22,811 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:22,855 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:23:23,985 - root - INFO - --------------- Dashboard element visibility testing ---------------
+2025-02-25 13:23:26,881 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:23:26,965 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:23:27,018 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:23:28,277 - root - INFO - Element: Employee Distribution by Location
+2025-02-25 13:23:28,290 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:23:30,600 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:31,490 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:31,535 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:31,584 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:23:36,072 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:23:36,164 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:23:36,219 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:23:37,238 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:23:37,559 - root - INFO - Time at Work
+2025-02-25 13:23:37,559 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:23:39,903 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:40,759 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:40,805 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:40,852 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:23:45,217 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:23:45,298 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:23:45,350 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:23:46,303 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:23:46,596 - root - INFO - My Actions
+No Pending Actions to Perform
+2025-02-25 13:23:46,596 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:23:49,066 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:49,930 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:49,975 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:50,020 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:23:54,375 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:23:54,456 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:23:54,506 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:23:55,722 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:23:56,234 - root - INFO - Quick Launch
+2025-02-25 13:23:56,234 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:23:58,577 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:23:59,475 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:59,521 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:23:59,570 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:24:03,697 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:24:03,785 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:24:03,834 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:24:04,959 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:24:05,245 - root - INFO - Buzz Latest Posts
+2025-02-25 13:24:05,245 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:24:07,777 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:24:08,651 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:08,697 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:08,747 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:24:12,877 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:24:12,967 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:24:13,017 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:24:13,901 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:24:14,216 - root - INFO - Employees on Leave Today
+2025-02-25 13:24:14,216 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:24:16,801 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:24:17,666 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:17,714 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:17,769 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:24:22,026 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:24:22,108 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:24:22,159 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:24:23,386 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:24:23,890 - root - INFO - Employee Distribution by Sub Unit
+2025-02-25 13:24:23,890 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:24:26,222 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:24:27,114 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:27,163 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:27,216 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:24:31,432 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:24:31,516 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:24:31,566 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:24:32,576 - root - INFO - --------------- Testing widget title  ---------------
+2025-02-25 13:24:32,887 - root - INFO - Employee Distribution by Location
+2025-02-25 13:24:32,887 - root - INFO - --------------- Title is expected  ---------------
+2025-02-25 13:24:35,255 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:24:36,143 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:36,189 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:36,235 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:24:40,718 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:24:40,808 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:24:40,861 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:24:43,360 - root - INFO - Element under test:
+2025-02-25 13:24:43,739 - root - INFO - --------------- Testing time at work widget url  ---------------
+2025-02-25 13:24:43,739 - root - INFO - --------------- Time at work shortcut widget works ---------------
+2025-02-25 13:24:46,065 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:24:46,915 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:46,967 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:47,017 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:24:51,254 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:24:51,338 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:24:51,387 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:24:52,676 - root - INFO - --------------- Testing My Action shortcut ---------------
+2025-02-25 13:24:53,894 - root - INFO - Element under test:
+2025-02-25 13:24:54,325 - root - INFO - --------------- My Actions shortcut widget works ---------------
+2025-02-25 13:24:56,660 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:24:57,532 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:57,582 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:24:57,634 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:25:02,515 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:25:02,601 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:25:02,651 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:25:03,854 - root - INFO - --------------- Testing My Action shortcut ---------------
+2025-02-25 13:25:05,240 - root - INFO - Element under test:(1) Pending Self Review
+2025-02-25 13:25:05,732 - root - INFO - --------------- My Actions shortcut widget works ---------------
+2025-02-25 13:25:08,105 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:25:08,964 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:09,012 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:09,068 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:25:13,342 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:25:13,425 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:25:13,474 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:25:14,486 - root - INFO - --------------- Testing My Action shortcut ---------------
+2025-02-25 13:25:15,469 - root - INFO - Element under test:
+2025-02-25 13:25:15,916 - root - INFO - --------------- My Actions shortcut widget works ---------------
+2025-02-25 13:25:20,103 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:25:20,953 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:20,999 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:21,046 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:25:25,091 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:25:25,172 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:25:25,224 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:25:26,219 - root - INFO - --------------- Testing My Action shortcut ---------------
+2025-02-25 13:25:27,008 - root - INFO - Element under test:(1) Candidate to Interview
+2025-02-25 13:25:27,367 - root - INFO - --------------- My Actions shortcut widget works ---------------
+2025-02-25 13:25:29,669 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:25:30,556 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:30,603 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:30,648 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:25:34,808 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:25:34,893 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:25:34,943 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:25:36,152 - root - INFO - --------------- Quick launch shortcuts testing  ---------------
+2025-02-25 13:25:37,295 - root - INFO - Element under test:
+2025-02-25 13:25:37,682 - root - INFO - --------------- Quick launch shortcut widget works ---------------
+2025-02-25 13:25:37,682 - root - INFO - Expected url:https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave
+2025-02-25 13:25:40,013 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:25:40,900 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:40,946 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:40,992 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:25:45,690 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:25:45,769 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:25:45,822 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:25:47,248 - root - INFO - --------------- Quick launch shortcuts testing  ---------------
+2025-02-25 13:25:48,264 - root - INFO - Element under test:
+2025-02-25 13:25:48,625 - root - INFO - --------------- Quick launch shortcut widget works ---------------
+2025-02-25 13:25:48,625 - root - INFO - Expected url:https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList
+2025-02-25 13:25:50,966 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:25:51,775 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:51,820 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:25:51,865 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:25:56,070 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:25:56,160 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:25:56,210 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:25:57,496 - root - INFO - --------------- Quick launch shortcuts testing  ---------------
+2025-02-25 13:25:58,630 - root - INFO - Element under test:
+2025-02-25 13:25:58,989 - root - INFO - --------------- Quick launch shortcut widget works ---------------
+2025-02-25 13:25:58,989 - root - INFO - Expected url:https://opensource-demo.orangehrmlive.com/web/index.php/time/viewEmployeeTimesheet
+2025-02-25 13:26:01,323 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:26:02,157 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:02,209 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:02,267 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:26:06,225 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:26:06,306 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:26:06,364 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:26:07,596 - root - INFO - --------------- Quick launch shortcuts testing  ---------------
+2025-02-25 13:26:08,824 - root - INFO - Element under test:
+2025-02-25 13:26:09,249 - root - INFO - --------------- Quick launch shortcut widget works ---------------
+2025-02-25 13:26:09,249 - root - INFO - Expected url:https://opensource-demo.orangehrmlive.com/web/index.php/leave/applyLeave
+2025-02-25 13:26:11,609 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:26:12,495 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:12,543 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:12,591 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:26:17,101 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:26:17,195 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:26:17,245 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:26:18,170 - root - INFO - --------------- Quick launch shortcuts testing  ---------------
+2025-02-25 13:26:19,204 - root - INFO - Element under test:
+2025-02-25 13:26:19,607 - root - INFO - --------------- Quick launch shortcut widget works ---------------
+2025-02-25 13:26:19,607 - root - INFO - Expected url:https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewMyLeaveList
+2025-02-25 13:26:21,906 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:26:22,807 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:22,853 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:22,901 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:26:27,075 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:26:27,155 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:26:27,203 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:26:28,502 - root - INFO - --------------- Quick launch shortcuts testing  ---------------
+2025-02-25 13:26:29,725 - root - INFO - Element under test:
+2025-02-25 13:26:30,095 - root - INFO - --------------- Quick launch shortcut widget works ---------------
+2025-02-25 13:26:30,095 - root - INFO - Expected url:https://opensource-demo.orangehrmlive.com/web/index.php/time/viewMyTimesheet
+2025-02-25 13:26:32,392 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:26:33,285 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:33,331 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:33,385 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:26:34,514 - root - INFO - --------------- Scrolling inside widget testing  ---------------
+2025-02-25 13:26:37,468 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:26:37,557 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:26:37,605 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:26:39,845 - root - INFO - --------------- Scrolling success  ---------------
+2025-02-25 13:26:42,170 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:26:43,030 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:43,078 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:43,124 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:26:47,228 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:26:47,316 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:26:47,369 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:26:48,347 - root - INFO - --------------- Scrolling to the top of the widget testing  ---------------
+2025-02-25 13:26:48,932 - root - INFO - --------------- Scrolling success  ---------------
+2025-02-25 13:26:51,265 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:26:52,168 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:52,221 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:26:52,277 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:26:56,690 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:26:56,775 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:26:56,831 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:26:57,827 - root - INFO - --------------- Scrolling with the keys inside widget testing  ---------------
+2025-02-25 13:27:05,452 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:27:06,326 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:06,372 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:06,424 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:27:10,418 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:27:10,498 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:27:10,548 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:27:11,880 - root - INFO - --------------- Scrolling to the last item inside widget testing  ---------------
+2025-02-25 13:27:14,087 - root - INFO - --------------- Scrolling success  ---------------
+2025-02-25 13:27:16,375 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:27:17,233 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:17,280 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:17,329 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:27:21,654 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:27:21,737 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:27:21,787 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:27:22,981 - root - INFO - --------------- Testing employee on leave pop up ---------------
+2025-02-25 13:27:23,590 - root - INFO - --------------- Pop up window is visible  ---------------
+2025-02-25 13:27:25,912 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:27:26,794 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:26,842 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:26,887 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:27:31,380 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:27:31,467 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:27:31,522 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:27:32,494 - root - INFO - --------------- Testing employee on leave save settings ---------------
+2025-02-25 13:27:34,216 - root - INFO - --------------- Settings are saved successfuly  ---------------
+2025-02-25 13:27:36,593 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:27:37,466 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:37,513 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:37,557 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:27:41,980 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:27:42,066 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:27:42,128 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:27:43,039 - root - INFO - --------------- Testing employee on leave cancel settings ---------------
+2025-02-25 13:27:44,577 - root - INFO - --------------- Settings are canceled successfuly  ---------------
+2025-02-25 13:27:46,953 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:27:47,846 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:47,898 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:47,955 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:27:52,260 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:27:52,340 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:27:52,389 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:27:53,376 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:27:54,333 - root - INFO - Element under test:
+2025-02-25 13:27:54,347 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:27:56,664 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:27:57,509 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:57,559 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:27:57,618 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:28:02,280 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:28:02,362 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:28:02,412 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:28:03,852 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:28:04,992 - root - INFO - Element under test:
+2025-02-25 13:28:05,008 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:28:07,357 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:28:08,227 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:08,272 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:08,319 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:28:12,695 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:28:12,778 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:28:12,832 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:28:14,229 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:28:15,489 - root - INFO - Element under test:
+2025-02-25 13:28:15,506 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:28:17,841 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:28:18,701 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:18,747 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:18,797 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:28:23,007 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:28:23,090 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:28:23,140 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:28:24,399 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:28:25,582 - root - INFO - Element under test:
+2025-02-25 13:28:25,598 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:28:27,995 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:28:28,915 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:28,962 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:29,007 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:28:33,275 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:28:33,356 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:28:33,407 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:28:34,463 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:28:35,622 - root - INFO - Element under test:
+2025-02-25 13:28:35,644 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:28:37,997 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:28:39,266 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:39,315 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:39,363 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:28:44,553 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:28:44,628 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:28:44,687 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:28:46,320 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:28:47,755 - root - INFO - Element under test:
+2025-02-25 13:28:47,793 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:28:50,141 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:28:51,003 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:51,051 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:28:51,103 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:28:55,898 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:28:55,974 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:28:56,024 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:28:57,575 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:28:58,778 - root - INFO - Element under test:
+2025-02-25 13:28:58,793 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:29:01,082 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:29:01,923 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:01,978 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:02,037 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:29:06,550 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:29:06,629 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:29:06,679 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:29:07,669 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:29:08,720 - root - INFO - Element under test:
+2025-02-25 13:29:08,738 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:29:11,145 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:29:12,016 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:12,066 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:12,118 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:29:16,534 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:29:16,618 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:29:16,671 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:29:17,909 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:29:19,101 - root - INFO - Element under test:
+2025-02-25 13:29:19,117 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:29:21,457 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:29:22,334 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:22,380 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:22,426 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:29:26,671 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:29:26,751 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:29:26,805 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:29:27,781 - root - INFO - --------------- Testing pie-chart elements visibility ---------------
+2025-02-25 13:29:28,692 - root - INFO - Element under test:
+2025-02-25 13:29:28,774 - root - INFO - --------------- Pie-chart element is visible ---------------
+2025-02-25 13:29:31,134 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:29:32,008 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:32,056 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:32,107 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:29:36,511 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:29:36,595 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:29:36,648 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:29:37,597 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:29:40,844 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:29:43,218 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:29:44,100 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:44,147 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:44,195 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:29:48,587 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:29:48,668 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:29:48,719 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:29:49,691 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:29:52,976 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:29:55,342 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:29:56,240 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:56,287 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:29:56,335 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:30:00,817 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:30:00,905 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:30:00,959 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:30:02,320 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:30:05,651 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:30:07,985 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:30:08,882 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:08,936 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:08,990 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:30:13,778 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:30:13,872 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:30:13,919 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:30:15,272 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:30:18,440 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:30:21,033 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:30:21,931 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:21,977 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:22,026 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:30:26,521 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:30:26,939 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:30:27,072 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:30:28,434 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:30:31,702 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:30:34,019 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:30:34,882 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:34,928 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:34,973 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:30:39,460 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:30:39,549 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:30:39,597 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:30:40,803 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:30:44,140 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:30:46,501 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:30:47,334 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:47,381 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:30:47,429 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:30:52,021 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:30:52,106 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:30:52,156 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:30:53,368 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:30:56,836 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:30:59,360 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:31:00,253 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:00,299 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:00,351 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:31:04,970 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:31:05,149 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:31:05,247 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:31:06,728 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:31:10,035 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:31:12,460 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:31:13,414 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:13,462 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:13,512 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:31:17,670 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:31:17,756 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:31:17,804 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:31:19,118 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:31:22,878 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:31:25,267 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:31:26,099 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:26,145 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:26,190 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:31:30,548 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:31:30,630 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:31:30,680 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:31:31,733 - root - INFO - --------------- Capturing screenshot ---------------
+2025-02-25 13:31:35,326 - root - INFO - --------------- Screenshot captured ---------------
+2025-02-25 13:31:37,659 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:31:38,499 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:38,546 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:38,602 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:31:42,620 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:31:42,704 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:31:42,760 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:31:44,027 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:31:44,540 - root - INFO - Element: Admin
+PIM
+Leave
+Time
+Recruitment
+My Info
+Performance
+Dashboard
+Directory
+Maintenance
+Claim
+Buzz
+2025-02-25 13:31:44,551 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:31:46,856 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:31:47,751 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:47,801 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:47,855 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:31:52,396 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:31:52,481 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:31:52,531 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:31:53,509 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:31:53,831 - root - INFO - Element:
+2025-02-25 13:31:53,843 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:31:56,133 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:31:57,019 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:57,068 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:31:57,123 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:32:01,391 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:32:01,477 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:32:01,528 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:32:02,760 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:32:03,244 - root - INFO - Element: Admin
+2025-02-25 13:32:03,256 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:32:05,609 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:32:06,497 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:06,543 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:06,589 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:32:11,023 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:32:11,109 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:32:11,158 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:32:12,738 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:32:13,077 - root - INFO - Element: PIM
+2025-02-25 13:32:13,088 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:32:15,430 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:32:16,307 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:16,358 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:16,417 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:32:21,273 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:32:21,359 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:32:21,414 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:32:22,324 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:32:22,615 - root - INFO - Element: Leave
+2025-02-25 13:32:22,628 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:32:24,996 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:32:25,901 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:25,946 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:25,992 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:32:30,480 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:32:30,571 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:32:30,624 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:32:31,823 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:32:32,302 - root - INFO - Element: Time
+2025-02-25 13:32:32,313 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:32:34,834 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:32:35,746 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:35,793 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:35,837 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:32:40,536 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:32:40,622 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:32:40,672 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:32:42,062 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:32:42,328 - root - INFO - Element: Recruitment
+2025-02-25 13:32:42,339 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:32:44,703 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:32:45,605 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:45,652 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:46,724 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:32:51,298 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:32:51,379 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:32:51,428 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:32:52,402 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:32:52,704 - root - INFO - Element: My Info
+2025-02-25 13:32:52,716 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:32:55,270 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:32:56,174 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:56,220 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:32:56,267 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:00,848 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:00,935 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:00,983 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:02,230 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:33:02,742 - root - INFO - Element: Performance
+2025-02-25 13:33:02,754 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:33:05,149 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:33:06,031 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:06,076 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:06,121 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:10,439 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:10,518 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:10,568 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:11,601 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:33:11,901 - root - INFO - Element: Dashboard
+2025-02-25 13:33:11,914 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:33:14,199 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:33:15,056 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:15,101 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:15,147 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:19,646 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:19,733 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:19,786 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:20,980 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:33:21,448 - root - INFO - Element: Directory
+2025-02-25 13:33:21,461 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:33:23,758 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:33:24,604 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:24,650 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:24,695 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:29,707 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:29,789 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:29,839 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:30,837 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:33:31,130 - root - INFO - Element: Maintenance
+2025-02-25 13:33:31,142 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:33:33,532 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:33:34,414 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:34,466 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:34,524 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:38,827 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:39,135 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:39,195 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:40,081 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:33:40,546 - root - INFO - Element: Claim
+2025-02-25 13:33:40,561 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:33:42,949 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:33:43,834 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:43,880 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:43,930 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:48,591 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:48,675 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:48,724 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:49,917 - root - INFO - --------------- Testing menu element visibility ---------------
+2025-02-25 13:33:50,383 - root - INFO - Element: Buzz
+2025-02-25 13:33:50,394 - root - INFO - --------------- Element is visible ---------------
+2025-02-25 13:33:52,773 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:33:53,600 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:53,650 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:33:53,706 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:33:58,049 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:33:58,137 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:33:58,186 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:33:59,404 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:33:59,896 - root - INFO - Element under test:Admin
+2025-02-25 13:34:00,667 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:34:03,080 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:34:03,951 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:03,997 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:04,042 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:34:08,232 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:34:08,316 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:34:08,365 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:34:09,626 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:34:09,945 - root - INFO - Element under test:PIM
+2025-02-25 13:34:10,812 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:34:13,209 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:34:14,087 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:14,138 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:14,188 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:34:18,304 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:34:18,394 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:34:18,444 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:34:19,637 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:34:20,114 - root - INFO - Element under test:Leave
+2025-02-25 13:34:20,987 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:34:23,313 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:34:24,204 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:24,252 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:24,303 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:34:29,207 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:34:29,300 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:34:29,351 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:34:30,254 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:34:30,541 - root - INFO - Element under test:Time
+2025-02-25 13:34:31,286 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:34:33,843 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:34:34,699 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:34,747 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:34,794 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:34:39,153 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:34:39,243 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:34:39,296 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:34:40,488 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:34:40,789 - root - INFO - Element under test:Recruitment
+2025-02-25 13:34:41,591 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:34:43,972 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:34:44,799 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:44,845 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:44,890 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:34:49,077 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:34:49,170 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:34:49,223 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:34:50,434 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:34:50,953 - root - INFO - Element under test:My Info
+2025-02-25 13:34:51,819 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:34:54,246 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:34:55,123 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:55,169 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:34:55,218 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:35:00,707 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:35:00,797 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:35:00,848 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:35:02,078 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:35:02,383 - root - INFO - Element under test:Performance
+2025-02-25 13:35:03,155 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:35:05,482 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:35:06,395 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:06,444 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:06,499 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:35:10,922 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:35:11,015 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:35:11,068 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:35:12,028 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:35:12,313 - root - INFO - Element under test:Dashboard
+2025-02-25 13:35:12,843 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:35:15,277 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:35:16,149 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:16,201 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:16,257 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:35:20,628 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:35:20,718 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:35:20,770 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:35:21,720 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:35:22,003 - root - INFO - Element under test:Directory
+2025-02-25 13:35:22,542 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:35:24,836 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:35:25,718 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:25,768 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:25,823 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:35:30,139 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:35:30,230 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:35:30,279 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:35:31,277 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:35:31,579 - root - INFO - Element under test:Maintenance
+2025-02-25 13:35:32,321 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:35:34,635 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:35:35,517 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:35,562 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:35,612 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:35:39,958 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:35:40,046 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:35:40,093 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:35:41,087 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:35:41,500 - root - INFO - Element under test:Claim
+2025-02-25 13:35:42,236 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:35:45,003 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:35:45,862 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:45,913 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:35:45,964 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:35:50,633 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:35:50,722 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:35:50,771 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:35:51,757 - root - INFO - --------------- Testing menu element url ---------------
+2025-02-25 13:35:52,298 - root - INFO - Element under test:Buzz
+2025-02-25 13:35:52,835 - root - INFO - --------------- Menu element url is correct ---------------
+2025-02-25 13:38:14,488 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:38:15,310 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:38:15,362 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:38:15,412 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:38:19,598 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:38:19,686 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:38:19,737 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:38:20,923 - root - INFO - --------------- Scrolling with the keys inside widget testing  ---------------
+2025-02-25 13:38:24,176 - root - INFO - --------------- Scrolling success  ---------------
+2025-02-25 13:51:35,349 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:51:36,349 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:51:36,398 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:51:36,449 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:51:37,544 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:51:40,440 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:51:40,525 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:51:40,573 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:51:41,852 - root - INFO - Getting my info page
+2025-02-25 13:51:42,712 - root - INFO - Element: 
+2025-02-25 13:51:42,723 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:51:45,012 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:51:45,929 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:51:45,974 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:51:46,025 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:51:47,145 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:51:50,370 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:51:50,452 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:51:50,502 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:51:51,759 - root - INFO - Getting my info page
+2025-02-25 13:51:52,611 - root - INFO - Element: 
+2025-02-25 13:51:52,625 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:51:54,965 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:51:55,835 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:51:55,882 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:51:55,934 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:51:57,080 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:52:00,358 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:52:00,443 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:52:00,499 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:52:01,814 - root - INFO - Getting my info page
+2025-02-25 13:52:02,645 - root - INFO - Element: 
+2025-02-25 13:52:02,656 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:52:05,019 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:52:05,957 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:06,013 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:06,065 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:52:07,324 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:52:10,368 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:52:10,449 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:52:10,501 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:52:11,677 - root - INFO - Getting my info page
+2025-02-25 13:52:13,083 - root - INFO - Element: 
+2025-02-25 13:52:13,094 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:52:15,511 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:52:16,489 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:16,538 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:16,586 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:52:17,679 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:52:21,014 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:52:21,097 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:52:21,149 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:52:22,116 - root - INFO - Getting my info page
+2025-02-25 13:52:23,763 - root - INFO - Element: 
+2025-02-25 13:52:23,773 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:52:26,072 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:52:26,932 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:26,978 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:27,025 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:52:28,225 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:52:31,374 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:52:31,460 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:52:31,508 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:52:32,758 - root - INFO - Getting my info page
+2025-02-25 13:52:34,151 - root - INFO - Element: 
+2025-02-25 13:52:34,163 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:52:36,535 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:52:37,417 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:37,471 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:37,520 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:52:38,717 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:52:41,953 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:52:42,039 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:52:42,090 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:52:43,028 - root - INFO - Getting my info page
+2025-02-25 13:52:44,752 - root - INFO - Element: 
+2025-02-25 13:52:44,772 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:52:47,115 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:52:47,961 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:48,007 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:48,056 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:52:49,199 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:52:52,247 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:52:52,331 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:52:52,381 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:52:53,597 - root - INFO - Getting my info page
+2025-02-25 13:52:55,058 - root - INFO - Element: Indian
+2025-02-25 13:52:55,073 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:52:57,379 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:52:58,281 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:58,328 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:52:58,374 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:52:59,515 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:53:03,094 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:53:03,175 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:53:03,227 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:53:04,479 - root - INFO - Getting my info page
+2025-02-25 13:53:05,856 - root - INFO - Element: Single
+2025-02-25 13:53:05,870 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:53:08,208 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:53:09,084 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:09,131 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:09,178 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:53:10,328 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:53:13,220 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:53:13,313 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:53:13,361 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:53:14,578 - root - INFO - Getting my info page
+2025-02-25 13:53:16,039 - root - INFO - Element: 
+2025-02-25 13:53:16,049 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:53:18,404 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:53:19,304 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:19,351 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:19,396 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:53:20,563 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:53:23,738 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:53:23,823 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:53:23,874 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:53:24,881 - root - INFO - Getting my info page
+2025-02-25 13:53:25,756 - root - INFO - Element: 
+2025-02-25 13:53:25,767 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:53:28,069 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:53:29,067 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:29,116 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:29,161 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:53:30,232 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:53:33,147 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:53:33,241 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:53:33,292 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:53:34,462 - root - INFO - Getting my info page
+2025-02-25 13:53:35,251 - root - INFO - Element: 
+2025-02-25 13:53:35,262 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:53:37,782 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:53:38,652 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:38,700 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:38,747 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:53:39,903 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:53:42,852 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:53:42,944 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:53:42,996 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:53:44,029 - root - INFO - Getting my info page
+2025-02-25 13:53:44,881 - root - INFO - Element: Save
+2025-02-25 13:53:44,893 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:53:47,302 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:53:48,150 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:48,197 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:53:48,242 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:53:49,503 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:53:54,235 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:53:54,325 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:53:54,380 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:53:55,576 - root - INFO - Getting my info page
+2025-02-25 13:53:56,645 - root - INFO - Element: A+
+2025-02-25 13:53:56,660 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:53:59,252 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:54:00,178 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:00,223 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:00,269 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:54:01,388 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:54:14,766 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:54:15,104 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:54:15,159 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:54:20,936 - root - INFO - Getting my info page
+2025-02-25 13:54:22,136 - root - INFO - Element: 
+2025-02-25 13:54:22,148 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:54:24,854 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:54:26,021 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:26,067 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:26,116 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:54:28,558 - root - INFO - --------------- Element visibility testing ---------------
+2025-02-25 13:54:32,022 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:54:32,106 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:54:32,158 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:54:33,068 - root - INFO - Getting my info page
+2025-02-25 13:54:34,524 - root - INFO - Element: Save
+2025-02-25 13:54:34,535 - root - INFO - --------------- Element visible ---------------
+2025-02-25 13:54:36,880 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:54:37,749 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:37,803 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:37,855 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:54:39,013 - root - INFO - --------------- Update employee info testing ---------------
+2025-02-25 13:54:42,081 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:54:42,163 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:54:42,213 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:54:43,271 - root - INFO - Getting my info page
+2025-02-25 13:54:43,590 - root - INFO - Updating personal info
+2025-02-25 13:54:44,142 - root - INFO - Inserting name: Exsample User
+2025-02-25 13:54:44,250 - root - INFO - Inserting middle name: Middle name
+2025-02-25 13:54:44,345 - root - INFO - Inserting last name: Last Name
+2025-02-25 13:54:44,870 - root - INFO - Inserting employee id: 123456
+2025-02-25 13:54:44,953 - root - INFO - Inserting other id: 987654
+2025-02-25 13:54:45,037 - root - INFO - Inserting drivers license number: 123456
+2025-02-25 13:54:45,117 - root - INFO - Inserting drivers license expiration date: 2025-05-12
+2025-02-25 13:54:45,242 - root - INFO - Inserting birth date: 1996-12-15
+2025-02-25 13:54:45,319 - root - INFO - Selecting gender female
+2025-02-25 13:54:45,319 - root - INFO - Saving changes
+2025-02-25 13:54:48,284 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:54:49,489 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:49,534 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:54:49,593 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:54:50,904 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:54:58,707 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:54:58,792 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:54:58,840 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:54:59,876 - root - INFO - Getting my info page
+2025-02-25 13:55:01,435 - root - INFO - Desired blood type: A+
+2025-02-25 13:55:01,463 - root - INFO - Selected blood type: A+
+2025-02-25 13:55:01,575 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:55:01,596 - root - INFO - Saving changes
+2025-02-25 13:55:04,783 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:55:05,715 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:05,762 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:05,806 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:55:06,888 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:55:10,553 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:55:10,641 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:55:10,692 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:55:12,162 - root - INFO - Getting my info page
+2025-02-25 13:55:13,314 - root - INFO - Desired blood type: a-
+2025-02-25 13:55:13,348 - root - INFO - Selected blood type: A-
+2025-02-25 13:55:13,458 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:55:13,478 - root - INFO - Saving changes
+2025-02-25 13:55:16,467 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:55:17,353 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:17,399 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:17,447 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:55:18,532 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:55:21,864 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:55:21,944 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:55:22,002 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:55:23,362 - root - INFO - Getting my info page
+2025-02-25 13:55:24,646 - root - INFO - Desired blood type: B+
+2025-02-25 13:55:24,688 - root - INFO - Selected blood type: B+
+2025-02-25 13:55:24,828 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:55:24,849 - root - INFO - Saving changes
+2025-02-25 13:55:27,822 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:55:28,716 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:28,762 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:28,812 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:55:30,092 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:55:32,951 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:55:33,034 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:55:33,083 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:55:34,296 - root - INFO - Getting my info page
+2025-02-25 13:55:35,558 - root - INFO - Desired blood type: b-
+2025-02-25 13:55:35,613 - root - INFO - Selected blood type: B-
+2025-02-25 13:55:35,722 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:55:35,746 - root - INFO - Saving changes
+2025-02-25 13:55:38,731 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:55:39,603 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:39,652 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:39,706 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:55:40,836 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:55:43,781 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:55:43,872 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:55:43,921 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:55:45,107 - root - INFO - Getting my info page
+2025-02-25 13:55:46,229 - root - INFO - Desired blood type: AB+
+2025-02-25 13:55:46,316 - root - INFO - Selected blood type: AB+
+2025-02-25 13:55:46,429 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:55:46,449 - root - INFO - Saving changes
+2025-02-25 13:55:49,359 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:55:50,212 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:50,264 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:55:50,318 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:55:51,520 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:55:55,189 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:55:55,279 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:55:55,329 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:55:56,406 - root - INFO - Getting my info page
+2025-02-25 13:55:57,783 - root - INFO - Desired blood type: ab-
+2025-02-25 13:55:57,857 - root - INFO - Selected blood type: AB-
+2025-02-25 13:55:57,978 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:55:57,999 - root - INFO - Saving changes
+2025-02-25 13:56:01,226 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:56:02,113 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:56:02,161 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:56:02,209 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:56:03,494 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:56:06,562 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:56:06,659 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:56:06,705 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:56:07,730 - root - INFO - Getting my info page
+2025-02-25 13:56:09,312 - root - INFO - Desired blood type: o+
+2025-02-25 13:56:09,368 - root - INFO - Selected blood type: O+
+2025-02-25 13:56:09,500 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:56:09,529 - root - INFO - Saving changes
+2025-02-25 13:56:12,429 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:56:13,331 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:56:13,377 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:56:13,429 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:56:14,557 - root - INFO - --------------- Update costume fields ---------------
+2025-02-25 13:56:17,887 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:56:17,974 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:56:18,026 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:56:18,955 - root - INFO - Getting my info page
+2025-02-25 13:56:20,352 - root - INFO - Desired blood type: o-
+2025-02-25 13:56:20,419 - root - INFO - Selected blood type: O-
+2025-02-25 13:56:20,538 - root - INFO - Inserting tekst to test field: Test
+2025-02-25 13:56:20,560 - root - INFO - Saving changes
+2025-02-25 13:56:23,485 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:56:24,343 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:56:24,392 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:56:24,443 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:56:25,547 - root - INFO - --------------- Upload image ---------------
+2025-02-25 13:56:29,270 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:56:29,395 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:56:29,474 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:56:30,837 - root - INFO - Getting my info page
+2025-02-25 13:56:31,184 - root - INFO - Upload image
+2025-02-25 13:56:31,587 - root - INFO - Uploading image
+2025-02-25 13:56:31,605 - root - INFO - Adding a comment
+2025-02-25 13:56:31,675 - root - INFO - Saving the image
+2025-02-25 13:59:05,656 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 13:59:06,519 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:59:06,572 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 13:59:06,620 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 13:59:07,841 - root - INFO - --------------- Upload image ---------------
+2025-02-25 13:59:10,960 - root - INFO - --------------- Entering username ---------------
+2025-02-25 13:59:11,049 - root - INFO - --------------- Entering password ---------------
+2025-02-25 13:59:11,098 - root - INFO - --------------- Logging in ---------------
+2025-02-25 13:59:12,325 - root - INFO - Getting my info page
+2025-02-25 13:59:12,782 - root - INFO - Upload image
+2025-02-25 13:59:13,204 - root - INFO - Uploading image
+2025-02-25 13:59:13,222 - root - INFO - Adding a comment
+2025-02-25 13:59:13,297 - root - INFO - Saving the image
+2025-02-25 14:01:05,941 - WDM - INFO - ====== WebDriver manager ======
+2025-02-25 14:01:06,788 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 14:01:06,837 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 14:01:06,896 - WDM - INFO - Driver [C:\Users\WIN 10\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-25 14:01:08,113 - root - INFO - --------------- Update employee info testing ddt---------------
+2025-02-25 14:01:11,494 - root - INFO - --------------- Entering username ---------------
+2025-02-25 14:01:11,580 - root - INFO - --------------- Entering password ---------------
+2025-02-25 14:01:11,629 - root - INFO - --------------- Logging in ---------------
+2025-02-25 14:01:12,925 - root - INFO - Getting my info page
+2025-02-25 14:01:13,432 - root - INFO - Updating personal info
+2025-02-25 14:01:13,781 - root - INFO - Inserting name: User1
+2025-02-25 14:01:13,911 - root - INFO - Inserting middle name: Middle Name1
+2025-02-25 14:01:14,034 - root - INFO - Inserting last name: Last name1
+2025-02-25 14:01:14,312 - root - INFO - Inserting employee id: 123456
+2025-02-25 14:01:14,391 - root - INFO - Inserting other id: 654321
+2025-02-25 14:01:14,472 - root - INFO - Inserting drivers license number: 1237879
+2025-02-25 14:01:14,554 - root - INFO - Inserting drivers license expiration date: 2026-12-15
+2025-02-25 14:01:14,618 - root - INFO - Selecting marital status: Single
+2025-02-25 14:01:14,733 - root - INFO - Inserting birth date: 1995-01-13
+2025-02-25 14:01:14,814 - root - INFO - Selecting gender male
+2025-02-25 14:01:14,814 - root - INFO - Saving changes
+2025-02-25 14:01:15,379 - root - INFO - Updating personal info
+2025-02-25 14:01:15,455 - root - INFO - Inserting name: User2
+2025-02-25 14:01:15,548 - root - INFO - Inserting middle name: Middle Name2
+2025-02-25 14:01:15,634 - root - INFO - Inserting last name: Last name2`
+2025-02-25 14:01:17,727 - root - INFO - Inserting employee id: 789456
+2025-02-25 14:01:17,821 - root - INFO - Inserting other id: 123456
+2025-02-25 14:01:17,895 - root - INFO - Inserting drivers license number: 987654
+2025-02-25 14:01:17,977 - root - INFO - Inserting drivers license expiration date: 2027-05-17
+2025-02-25 14:01:18,090 - root - INFO - Inserting birth date: 1987-08-06
+2025-02-25 14:01:18,173 - root - INFO - Selecting gender female
+2025-02-25 14:01:18,173 - root - INFO - Saving changes
+2025-02-25 14:01:18,712 - root - INFO - Updating personal info
+2025-02-25 14:01:18,774 - root - INFO - Inserting name: User3
+2025-02-25 14:01:18,857 - root - INFO - Inserting middle name: Middle Name3
+2025-02-25 14:01:18,944 - root - INFO - Inserting last name: Last mame3
+2025-02-25 14:01:21,046 - root - INFO - Inserting employee id: 456789
+2025-02-25 14:01:21,124 - root - INFO - Inserting other id: 6549687
+2025-02-25 14:01:21,212 - root - INFO - Inserting drivers license number: 654312
+2025-02-25 14:01:21,339 - root - INFO - Inserting drivers license expiration date: 2023-05-16
+2025-02-25 14:01:21,450 - root - INFO - Inserting birth date: 2003-06-07
+2025-02-25 14:01:21,519 - root - INFO - Selecting gender male
+2025-02-25 14:01:21,520 - root - INFO - Saving changes
